@@ -4,8 +4,9 @@
 
 ### Now
 
-- Building and maintaining Flutter apps with AI-assisted development, modular architecture, reusable UI, and automated tests.
+- Building and maintaining Flutter apps with modular architecture, reusable UI, and automated tests.
 - Working on real-time communication, offline data, payments, subscriptions, and localization.
+- Actively using AI tools to streamline development, refactor code, write tests, and quickly prototype solutions.
 
 ### Before
 
