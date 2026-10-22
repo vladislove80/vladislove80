@@ -1,10 +1,10 @@
 # Hi, I'm Vlad 👋
 
-**Flutter developer**. I build mobile apps for iOS and Android with Dart, Kotlin, and Java. My work spans logistics, transport, community apps, and digital content.
+**Flutter developer**. My work spans logistics, transport, community apps, and digital content.
 
 ### Now
 
-- Building and maintaining Flutter apps with modular architecture, reusable UI, and automated tests.
+- Building and maintaining Flutter apps with AI-assisted development, modular architecture, reusable UI, and automated tests.
 - Working on real-time communication, offline data, payments, subscriptions, and localization.
 
 ### Before
@@ -43,13 +43,13 @@ I started in native Android development and later moved to Flutter. My experienc
 ### Things I've worked on
 
 - Driver and passenger apps with maps, background location tracking, trip workflows, and native platform integrations.
-- Real-time chat with media attachments and local message storage, plus voice and video calling with Agora.
+- Real-time chat with media attachments and local message storage, plus voice and video calling.
 - Story and audio apps with background playback, offline caching, and subscription access.
 - Shared design systems and feature packages, deep links, push notifications, and localized interfaces.
 
 ### Around the web
 
-I also answer mobile development questions on [Stack Overflow](https://stackoverflow.com/users/5243472/vladyslav-ulianytskyi).
+In the pre-AI era, I used [Stack Overflow](https://stackoverflow.com/users/5243472/vladyslav-ulianytskyi).
 
 ### Connect with me
 
